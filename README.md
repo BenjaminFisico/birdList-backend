@@ -8,7 +8,7 @@ If you want to run this project, use the command:
 
 and generate Database tables using command:
 
-<code>docker-compose exec laravel.test php artisan migrate</code>
+<code>docker-compose exec birdlist.backend php artisan migrate</code>
 
 ## Author
 
